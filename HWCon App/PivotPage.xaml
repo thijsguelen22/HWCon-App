@@ -52,7 +52,7 @@
                             <Grid Margin="0,100,0,0">
                                 <Grid HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Margin="5,0,5,0" Width="190" Background="#7FFFFFFF">
                                     <TextBlock x:Name="Schedule3" TextWrapping="Wrap" Text="thing 3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
-                                    <TextBlock x:Name="desc3" TextWrapping="Wrap" Text="description 3" Margin="0,30,0,0 " HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="14"/>
+                                    <TextBlock x:Name="desc 3" TextWrapping="Wrap" Text="description 3" Margin="0,30,0,0 " HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="14"/>
                                 </Grid>
                                 <Grid HorizontalAlignment="Right" Height="90" VerticalAlignment="Top" Margin="5,0,5,0" Width="190" Background="#7FFFFFFF">
                                     <TextBlock x:Name="Schedule4" TextWrapping="Wrap" Text="thing 4" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
